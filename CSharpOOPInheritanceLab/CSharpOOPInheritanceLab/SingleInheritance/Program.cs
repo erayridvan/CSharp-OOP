@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace SingleInheritance
+namespace Farm
 {
-    class Program
+    public class StartUp
     {
         static void Main()
         {
